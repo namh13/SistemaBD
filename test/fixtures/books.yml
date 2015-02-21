@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idbook: 1
+  name: MyString
+  idauthor: 1
+  ideditorial: 1
+
+two:
+  idbook: 1
+  name: MyString
+  idauthor: 1
+  ideditorial: 1
